@@ -1,0 +1,13 @@
+.column {
+    float: left;
+    width: 50%;
+  }
+
+.button {
+    background-color:aqua;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+    margin-left: 40px;
+}
